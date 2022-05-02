@@ -3,6 +3,7 @@
 ***
 
 ##  Título: Bubble Gum Adventure
+![Personaje](https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/df78b432-6061-4622-a5ee-0e9ffc3a15bf.webp)
 
 ## Estudio: RachaDEV
 ![Logo](https://github.com/9RACHA/GDD/blob/master/RACHA%20Dev.png?raw=true)
@@ -23,7 +24,7 @@ Apto para todos los públicos, pero en especial para niños.
 
 Participaré en una Game Jam que se pueda adaptar al juego, en concreto, una de un conocido YouTuber de desarrollo de videojuegos llamado Alva Majo y que se publicará en itch.io esto dará visibilidad al juego ya que cuenta con bastantes seguidores.
 
-Otra opcion podria ser Xokas al ser de Lugo hay una ligera probabilidad que muestre el juego en una historia de IG al mandarle un correo explicandole la situacián.
+Otra opcion podria ser ElXokas al ser de Lugo hay una ligera probabilidad que muestre el juego en una historia de IG al mandarle un correo explicandole la situacián.
 
 ## Promoción (Redes Sociales)
 Creare un twitter sobre el juego en el cual publicará información importante sobre el juego pero sobre todo memes relacionados con videojuegos, a dia de hoy es algo que puede ayudar a viralizar la cuenta.
