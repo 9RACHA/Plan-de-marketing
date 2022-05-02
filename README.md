@@ -14,14 +14,16 @@ Enfocado especialmente para dispositivos móviles Android, tambien puede present
 
 ## Precio:
 Free to play con anuncios integrados, que saltarán al morir un numero determinado de veces.
+Tambien tendrá un modo premium que valdrá 1€ el cual te permitira skipear los anuncios.
 
 ## Público Objetivo: 
 Apto para todos los públicos, pero en especial para niños.
 
 ## Marketing de influencers
 
-Participaré en una Game Jam que se pueda adaptar al juego, en concreto una de un conocido YouTuber de desarrollo de videojuegos llamado Alva Majo y que se publicará en itch.io esto dará visibilidad al juego ya que cuanta con bastantes seguidores.
-El Xokas al ser de Lugo hay una ligera probabilidad que muestre el juego en una historia de IG al mandarle un correo explicandole la situacián.
+Participaré en una Game Jam que se pueda adaptar al juego, en concreto, una de un conocido YouTuber de desarrollo de videojuegos llamado Alva Majo y que se publicará en itch.io esto dará visibilidad al juego ya que cuenta con bastantes seguidores.
+
+Otra opcion podria ser Xokas al ser de Lugo hay una ligera probabilidad que muestre el juego en una historia de IG al mandarle un correo explicandole la situacián.
 
 ## Promoción (Redes Sociales)
 Creare un twitter sobre el juego en el cual publicará información importante sobre el juego pero sobre todo memes relacionados con videojuegos, a dia de hoy es algo que puede ayudar a viralizar la cuenta.
