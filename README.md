@@ -4,6 +4,9 @@
 
 ##  Título: Bubble Gum Adventure
 
+## Estudio: RachaDEV
+![Logo](https://github.com/9RACHA/GDD/blob/master/RACHA%20Dev.png?raw=true)ç
+
 ## Plataforma: 
 Enfocado especialmente para dispositivos móviles Android, tambien puede presentarse para Steam aunque el impacto será mucho menor.
 
