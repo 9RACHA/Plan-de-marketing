@@ -19,8 +19,13 @@ Apto para todos los públicos, pero en especial para niños.
 
 Participaré en una Game Jam que se pueda adaptar al juego, en concreto una de un conocido YouTuber de desarrollo de videojuegos llamado Alva Majo y que se publicará en itch.io esto dará visibilidad al juego ya que cuanta con bastantes seguidores.
 
-## AutoPromoción
+## Promoción (Redes Sociales)
 Creare un twitter sobre el juego en el cual publicará información importante sobre el juego pero sobre todo memes relacionados con videojuegos, a dia de hoy es algo que puede ayudar a viralizar la cuenta.
 También se puede tener en cuenta la red social de TikTok la cual esta en auge, y posee un algoritmo bastante bien refinado.
+Reddit en este foro hay un espacio especifico para juegos indie.
+
+## Promoción (Conferencias)
+ExpoOtakuCoruña: puede que no sea el target objetivo de gente, pero hara de efecto embudo y mucha gente se interesará por el juego.
+Madrid Games Week: es la meca de las convenciones de videojuegos en España y exponer tu juego ahi seria un boost brutal de interesados.
 
 
