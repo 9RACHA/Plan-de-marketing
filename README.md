@@ -35,4 +35,7 @@ Reddit en este foro hay un espacio especifico para juegos indie.
 ExpoOtakuCoruña: puede que no sea el target objetivo de gente, pero hara de efecto embudo y mucha gente se interesará por el juego.
 Madrid Games Week: es la meca de las convenciones de videojuegos en España y exponer tu juego ahi seria un boost brutal de interesados.
 
+## Inversion
+Crowdfounding podria ayudar a diseñar mas niveles y darle una mayor duracion al juego. Ejemplos: Kickstarter e Indiegogo
+
 
